@@ -24,7 +24,7 @@ System.register(['@angular/core'], function(exports_1, context_1) {
                 AppComponent = __decorate([
                     core_1.Component({
                         selector: 'my-app',
-                        template: '<h1>Meine erste Angular 2 App in VSCode.</h1>'
+                        template: "<h1>Meine erste Angular 2 App in VSCode.</h1>\n        <h2>Versionsverwaltung und Verteilung \u00FCber GIT</h2>\n        <h3>Compilierung mit Taskrunner</h3>"
                     }), 
                     __metadata('design:paramtypes', [])
                 ], AppComponent);
